@@ -7,3 +7,4 @@ The given dataset is imbalanced i.e the target class has an uneven distribution 
 To deal with the imbalanced data, a sample dataset was created using the sample function which randomly selects samples from the original dataset and has equal number of observations as the class with low number of observations.
 
 A prediction system is made and these features are fed to the prediction system and it predicts whether it was a legit transaction or a fraudulent transaction.
+(0->Legit transaction ; 1-> Fraudulent transaction)
